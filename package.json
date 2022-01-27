@@ -1,0 +1,27 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alik1604/RESTAURANT-PAGE.git"
+  },
+  "keywords": [
+    "Odin",
+    "project"
+  ],
+  "author": "Alik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alik1604/RESTAURANT-PAGE/issues"
+  },
+  "homepage": "https://github.com/Alik1604/RESTAURANT-PAGE#readme",
+  "devDependencies": {
+    "webpack": "^5.67.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
